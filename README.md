@@ -14,7 +14,7 @@ const travdogdev = {
 - 🔭 I’m currently working on ...a lot of things
 
 ### Social:
-![TikTok](https://www.tiktok.com/@travdogdev)
+[TikTok](https://www.tiktok.com/@travdogdev)
   
 
 ## Tech Stack
