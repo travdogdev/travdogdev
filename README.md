@@ -1,4 +1,4 @@
-> *"Currently building one app a month! (or next phase of the previous app)"*
+> *"Currently learning and building out ideas!"*
 
 ![](https://komarev.com/ghpvc/?username=crazyskateface)
 
